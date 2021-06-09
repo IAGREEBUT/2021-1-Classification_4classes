@@ -5,6 +5,8 @@
 ##ignore file list
 #commit colab
 For_github_commit.ipynb
+labels.npy
+data_image.npy
 
 
 
